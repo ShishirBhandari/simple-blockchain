@@ -1,7 +1,8 @@
 {
-  "name": "blockchain",
+  "name": "simple-blockchain",
   "version": "1.0.0",
   "description": "",
+  "author": "Shishir Bhandari",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch-all",
